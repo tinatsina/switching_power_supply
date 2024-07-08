@@ -11,3 +11,6 @@ A switching power supply designed using Altium
 
 Tinaye H Tsinakwadi
 WCH
+
+Also added some submodules
+
